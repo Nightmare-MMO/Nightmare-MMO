@@ -25,6 +25,16 @@ Download and follow the project here:
 
 ---
 
+## Download the Source Code
+
+### Github.com
+
+Download and follow the repo here:
+
+[Nightmare MMO on Github.com](https://github.com/Nightmare-MMO/Nightmare-317)
+
+---
+
 ## Features
 
 * ⚔️ Classic MMORPG combat
