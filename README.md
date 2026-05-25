@@ -1,6 +1,8 @@
-# Nightmare MMO Relaunch
+# Nightmare MMO
 
-Welcome to the official relaunch of **Nightmare MMO** — a retro-inspired MMORPG project focused on bringing back classic online RPG gameplay with modern improvements, active development, and a dedicated community.
+Welcome to the official launch of **Nightmare MMO** — a retro-inspired MMORPG project focused on bringing back classic online RPG gameplay with modern improvements, active development, and a dedicated community.
+
+Opening our doors June 1st - open sourcing at the same time!
 
 Built for players who miss the golden era of MMORPGs, Nightmare MMO aims to deliver:
 
