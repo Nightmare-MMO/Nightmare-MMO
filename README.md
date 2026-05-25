@@ -39,6 +39,7 @@ Download and follow the repo here:
 
 ## Features
 
+* 🐧 FOSS under MIT / all assets are PUBLIC DOMAIN
 * ⚔️ Classic MMORPG combat
 * 🌎 Persistent online world
 * 🧙 Multiple classes and builds
