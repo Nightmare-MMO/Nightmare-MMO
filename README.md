@@ -1,8 +1,8 @@
-# Nightmare 317 Relaunch
+# Nightmare MMO Relaunch
 
-Welcome to the official relaunch of **Nightmare 317** — a retro-inspired MMORPG project focused on bringing back classic online RPG gameplay with modern improvements, active development, and a dedicated community.
+Welcome to the official relaunch of **Nightmare MMO** — a retro-inspired MMORPG project focused on bringing back classic online RPG gameplay with modern improvements, active development, and a dedicated community.
 
-Built for players who miss the golden era of MMORPGs, Nightmare 317 aims to deliver:
+Built for players who miss the golden era of MMORPGs, Nightmare MMO aims to deliver:
 
 * Open-world exploration
 * Classic RPG progression
@@ -40,7 +40,7 @@ Download and follow the project here:
 
 ## Vision
 
-Nightmare 317 is a community-focused relaunch designed to preserve the feel of old-school MMORPGs while improving stability, balance, and long-term support.
+Nightmare MMO is a community-focused relaunch designed to preserve the feel of old-school MMORPGs while improving stability, balance, and long-term support.
 
 The goal is simple:
 
